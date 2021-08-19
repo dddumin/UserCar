@@ -1,5 +1,5 @@
 # UserCar
-Application for viewing users' cars. Allows you to add / remove / update a user or machine for a user.
+Web Application for viewing users' cars. Allows you to add / remove / update a user or machine for a user.
 
 Stack: Java, SpringBoot, Hibernate, Html, CSS, KavaScript, jQuery, Ajax, Bootstrap
 
